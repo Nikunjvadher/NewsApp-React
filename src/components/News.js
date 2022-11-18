@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
 import "../App.css";
+import Spinner from "./Spinner";
 
 export class News extends Component {
   constructor() {
@@ -8,18 +9,21 @@ export class News extends Component {
     this.state = {
       article: [],
       page: 1,
+      loading: false
     };
   }
 
   async componentDidMount() {
     let url =
       `https://newsapi.org/v2/top-headlines?country=in&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=1&pageSize=${this.props.pageSize}`;
+    this.setState({loading: true})
     let data = await fetch(url);
     let parsedData = await data.json();
     // console.log(parsedData);
     this.setState({
       article: parsedData.articles,
       totalResults: parsedData.totalResults,
+      loading: false,
     });
   }
 
@@ -29,11 +33,13 @@ export class News extends Component {
     let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
       this.state.page - 1
     }&pageSize= ${this.props.pageSize}`;
+    this.setState({loading: true})
     let data = await fetch(url);
     let parsedData = await data.json();
     this.setState({
       page: this.state.page - 1,
       article: parsedData.articles,
+      loading: false,
     });
   };
 
@@ -43,20 +49,23 @@ export class News extends Component {
     let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
       this.state.page + 1
     }&pageSize=${this.props.pageSize}`;
+    this.setState({loading: true})
     let data = await fetch(url);
     let parsedData = await data.json();
     this.setState({
       page: this.state.page + 1,
       article: parsedData.articles,
+      loading: false
     });
   };
 
   render() {
     return (
-      <div className="container my-3">
+        <div className="container my-3">
         <h1 className="text-center"> News Monkey - Top Headlines </h1>
+         {this.state.loading &&  <Spinner/> }
         <div className="row ">
-          {this.state.article.map((e) => {
+          { !this.state.loading && this.state.article.map((e) => {
             return (
               <div className="col-md-4 NewsCard mb-3" key={e.url}>
                 <NewsItem
