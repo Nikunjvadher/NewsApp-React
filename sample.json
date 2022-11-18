@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BuffaloBills.com"
+            },
+            "author": "Buffalo Bills",
+            "title": "Sunday's Bills-Browns game moved to Detroit, fans to receive ticket refunds purchased through the Bills or Ticketmaster - BuffaloBills.com",
+            "description": "The game will still be televised on CBS at 1 p.m.",
+            "url": "https://www.buffalobills.com/news/bills-browns-ford-field-detroit-fans-receive-ticket-refunds",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bills/ut0ygj0ifkwk6uwa0tia",
+            "publishedAt": "2022-11-18T04:23:54Z",
+            "content": "Bills EVP/COO Ron Raccuia and Bills GM Brandon Beane held a press conference via Zoom Thursday evening to discuss the change in location for Sunday's game and other important topics including ticket … [+2696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "North Korea fires ICBM into sea west of Japan - BBC",
+            "description": "It follows Thursday's warning of a \"fiercer\" response to US plans to boost its regional presence.",
+            "url": "https://www.bbc.com/news/world-asia-63672399",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E4B3/production/_127674585_498a5b81b1572ad8960db0b331b5e2ab22e485a60_0_5078_33852000x1333.jpg",
+            "publishedAt": "2022-11-18T04:08:41Z",
+            "content": "North Korea has launched an intercontinental ballistic missile (ICBM), South Korea says.\r\nPyongyang's longer range missiles are designed to bring the US mainland within range.\r\nJapan's Coast Guard sa… [+2491 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, Amir Vera, Jamiel Lynch",
+            "title": "Federal appeals court grants Alabama death row inmate last-minute stay of execution - CNN",
+            "description": "The US Supreme Court has overruled a federal appeals court's stay of execution for Alabama death-row prisoner Kenneth Smith, allowing the state to proceed with Smith's execution before his death warrant expires at midnight Thursday.",
+            "url": "https://www.cnn.com/2022/11/17/us/kenneth-smith-alabama-execution/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116085016-kenneth-smith-alabama-inmate.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-18T03:48:00Z",
+            "content": "[Breaking news update, published at 11:44 p.m. ET]\r\nThe US Supreme Court has vacated a federal appeals courts stay of execution for Alabama death row prisoner Kenneth Smith, allowing the state to pro… [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Rob Demovsky",
+            "title": "Aaron Rodgers, Packers catch Titans by surprise with TD to end first quarter - ESPN",
+            "description": "Aaron Rodgers' last five touchdown passes have gone to rookie WR Christian Watson.",
+            "url": "https://www.espn.com/nfl/story/_/id/35049560/rodgers-catches-titans-surprise-td-pass-rookie-watson",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1118%2Fr1092687_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-18T03:33:04Z",
+            "content": "GREEN BAY, Wis. -- Five days ago, Christian Watson had zero touchdown catches. Five quarters of football later, he had four of them.\r\nHe followed up his three-touchdown game last Sunday against the D… [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": null,
+            "title": "Ticketmaster Abruptly Cancels Public Sale of Tickets for Taylor Swift's ‘Eras' Tour - NBC Chicago",
+            "description": "One day before tickets were set to become available to the general public, Ticketmaster abruptly canceled its public sale for Taylor Swift's \"The Eras Tour,\"…",
+            "url": "https://www.nbcchicago.com/news/local/ticketmaster-abruptly-cancels-public-sale-of-tickets-for-taylor-swifts-eras-tour/2999690/",
+            "urlToImage": "https://media.nbcchicago.com/2022/11/GettyImages-1243081642.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2022-11-18T02:20:28Z",
+            "content": "One day before tickets were set to become available to the general public, Ticketmaster abruptly canceled its public sale for Taylor Swift's \"The Eras Tour,\" following several issues with presale eve… [+7004 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "3 Men Tied to Russia Found Guilty of Murder in Downing of Jet Over Ukraine - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMi8xMS8xNy93b3JsZC9ydXNzaWEtdWtyYWluZS13YXItbmV3c9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-18T01:55:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Darragh McDonald",
+            "title": "Paul Goldschmidt Wins NL MVP - MLB Trade Rumors",
+            "description": "Cardinals first baseman Paul Goldschmidt has been named the National League's Most Valuable Player, according to an announcement from the &hellip;",
+            "url": "https://www.mlbtraderumors.com/2022/11/paul-goldschmidt-wins-nl-mvp.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/07/PaulGoldschmidt-2022-1-1024x683.jpg",
+            "publishedAt": "2022-11-18T01:41:38Z",
+            "content": "Cardinals first baseman Paul Goldschmidt has been named the National League’s Most Valuable Player, according to an announcement from the Baseball Writers Association of America. He was followed in t… [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Nikhilesh De",
+            "title": "Bahamas Securities Regulator Says It Ordered FTX Crypto Transferred to Government Wallets - CoinDesk",
+            "description": "The regulator said it needed \"urgent interim regulatory action\" to protect creditors.",
+            "url": "https://www.coindesk.com/policy/2022/11/18/bahamas-securities-regulator-says-it-ordered-ftx-crypto-transferred-to-government-wallets/",
+            "urlToImage": "https://www.coindesk.com/resizer/sjSG4eQMRQl35a1Dmb1xS2lcfKU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y3I7WQDX5JCPXBWSJI724USETA.jpg",
+            "publishedAt": "2022-11-18T01:29:00Z",
+            "content": "The Securities Commission of the Bahamas announced Thursday that it ordered the contents of FTX's crypto wallets to be transferred to government-controlled wallets on the previous Saturday.\r\nIn a pre… [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "James Webb telescope finds two of the oldest and most distant galaxies ever seen - The Guardian",
+            "description": "Nasa says space telescope is finding previously hidden early galaxies, including one that may have formed 350m years after the big bang",
+            "url": "https://www.theguardian.com/science/2022/nov/18/james-webb-telescope-finds-two-of-the-oldest-and-most-distant-galaxies-ever-seen",
+            "urlToImage": "https://i.guim.co.uk/img/media/36722cc74b036ec23cc2b0411f652e6bac5db53b/0_432_1080_648/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcbc965bdc1320ae70846e6df22be1e6",
+            "publishedAt": "2022-11-18T01:23:00Z",
+            "content": "Nasas James Webb space telescope is finding bright, early galaxies that until now have been hidden from view, including one that may have formed just 350m years after the big bang.\r\nAstronomers said … [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: How FTX bought its way to become the 'most regulated' crypto exchange - Reuters",
+            "description": "Before it collapsed this month, FTX stood apart from many rivals in the largely unsupervised crypto industry by boasting it was the \"most regulated\" exchange on the planet and inviting closer scrutiny from authorities.",
+            "url": "https://www.reuters.com/technology/exclusive-how-ftx-bought-its-way-become-most-regulated-crypto-exchange-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-18T01:21:00Z",
+            "content": "Nov 18 (Reuters) - Before it collapsed this month, FTX stood apart from many rivals in the largely unsupervised crypto industry by boasting it was the \"most regulated\" exchange on the planet and invi… [+10513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WIVB.com - News 4"
+            },
+            "author": "Emily Miller",
+            "title": "Travel ban issued for Erie County ahead snowstorm - WIVB.com - News 4",
+            "description": "BUFFALO, N.Y. (WIVB) — A State of Emergency and travel ban has been issued by Erie County Executive Mark Poloncarz. The State of Emergency is in effect as of 8 p.m. Thursday and the travel ban for all of Erie County will be in effect at 9 p.m. Thursday until …",
+            "url": "https://www.wivb.com/weather/buffalo-snowstorm-travel-ban-poloncarz/",
+            "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2022/11/snapshot-22.jpg?w=1280",
+            "publishedAt": "2022-11-18T01:13:13Z",
+            "content": "BUFFALO, N.Y. (WIVB) — A State of Emergency and travel ban has been issued by Erie County Executive Mark Poloncarz.\r\nThe State of Emergency is in effect as of 8 p.m. Thursday and the travel ban for a… [+472 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Aaron Judge of Yankees Beats Shohei Ohtani for AL MVP Award - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTcvc3BvcnRzL2Jhc2ViYWxsL2Fhcm9uLWp1ZGdlLWFsLW12cC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-18T01:05:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Age-Related Macular Degeneration Associated With Serious Forms of Cardiovascular Disease - Neuroscience News",
+            "description": "People with subretinal drusenoid deposits (SDD), a form of age-related macular degeneration, are more likely to have underlying heart damage as a result of heart failure or heart attacks, or other forms of cardiovascular disease associated with increased stro…",
+            "url": "https://neurosciencenews.com/amd-sdd-cardiovascular-disease-21882/",
+            "urlToImage": "https://neurosciencenews.com/files/2022/11/amd-cardiovascular-disease-neurosicnes-public.jpg",
+            "publishedAt": "2022-11-18T00:08:37Z",
+            "content": "Summary: People with subretinal drusenoid deposits (SDD), a form of age-related macular degeneration, are more likely to have underlying heart damage as a result of heart failure or heart attacks, or… [+7371 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Resignations Roil Twitter as Elon Musk Tries Persuading Some Workers to Stay - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTcvdGVjaG5vbG9neS90d2l0dGVyLWVsb24tbXVzay1mdGMuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-17T23:59:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Follow Orion's trip to the moon with NASA Artemis 1 tracking website - Space.com",
+            "description": "It feels like you're flying alongside the moon-bound capsule.",
+            "url": "https://www.space.com/artemis-1-orion-tracking-website-moon-journey",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KHbLTCpiy48ZjRrqD7eUdN-1200-80.png",
+            "publishedAt": "2022-11-17T23:47:20Z",
+            "content": "Ride along with NASA's latest moon mission on a tracking website just launched by the agency.\r\nArtemis 1, the first flight of the Artemis program, launched early in Wednesday morning (Nov. 16). A Spa… [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Recording Academy | Grammys"
+            },
+            "author": null,
+            "title": "Get Familiar With The Best New Artist Nominees At The 2022 Latin GRAMMYs - The GRAMMYs",
+            "description": "Learn more about the 11 rising stars nominated for Best New Artist at the 2022 Latin GRAMMYs: Ángela Álvarez, Sofía Campos, Cande Y Paulo, Clarissa, Silvana Estrada, Pol Granch, Nabález, Tiare, Vale, Yahritza Y Su Esencia, and Nicole Zignago.",
+            "url": "https://www.grammy.com/news/best-new-artist-nominees-latin-grammys-2022-nominations",
+            "urlToImage": "https://i8.amplience.net/i/naras/2020-latin-grammys-gettyimages-623950036.jpg?w=821&sm=c",
+            "publishedAt": "2022-11-17T23:40:36Z",
+            "content": "As some of the biggest artists, songs and albums in Latin music are celebrated at the 2022 Latin GRAMMYs, so will its next generation in the Best New Artist category.\r\nThis year, there are 11 nominee… [+9704 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Porsche unveils 911 Dakar, an off-road beast - CNN",
+            "description": "Porsche introduced the 911 Dakar, a special off-road version of its classic 911 sports car. Porsche says the model has been tested over 10,000 KM and can handle extreme conditions.",
+            "url": "https://www.cnn.com/videos/business/2022/11/17/porsche-911-dakar-offroader-cprog-orig-ht.cnn-business",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221117143442-porsche-911-dakar.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-17T23:31:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Nancy Pelosi’s Most Enduring Photo Moments - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTcvdXMvcG9saXRpY3MvbmFuY3ktcGVsb3NpLXBob3Rvcy5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-17T23:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Heidi Montag Gives Birth, Welcomes Baby No. 2 With Spencer Pratt - Yahoo Entertainment",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2hlaWRpLW1vbnRhZy1naXZlcy1iaXJ0aC13ZWxjb21lcy0yMzA1MDAzMTYuaHRtbNIBXGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQvaGVpZGktbW9udGFnLWdpdmVzLWJpcnRoLXdlbGNvbWVzLTIzMDUwMDMxNi5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-17T23:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Weisselberg Testifies He Did Not Conspire With Trump Family In Tax Fraud Scheme - MSNBC",
+            "description": "Former Trump Organization CFO, Allen Weisselberg, testified in the criminal tax fraud trial against a Trump family business, where he was asked if Trump or a...",
+            "url": "https://www.youtube.com/watch?v=U1UZPAWf-fo",
+            "urlToImage": "https://i.ytimg.com/vi/U1UZPAWf-fo/maxresdefault.jpg",
+            "publishedAt": "2022-11-17T23:00:16Z",
+            "content": null
+        }
+    ]
+}
