@@ -43,7 +43,7 @@ export class News extends Component {
   handlePrevClick = async () => {
     console.log("Prev");
 
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.state.country}&category=${this.state.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
       this.state.page - 1
     }&pageSize= ${this.props.pageSize}`;
     this.setState({loading: true})
@@ -59,7 +59,7 @@ export class News extends Component {
   handleNextClick = async () => {
     console.log("next");
 
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.state.country}&category=${this.state.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${
       this.state.page + 1
     }&pageSize=${this.props.pageSize}`;
     this.setState({loading: true})
@@ -82,8 +82,8 @@ export class News extends Component {
             return (
               <div className="col-md-4 NewsCard mb-3" key={e.url}>
                 <NewsItem
-                  title={e.title ? e.title.slice(0, 45) : ""}
-                  description={e.description ? e.description.slice(0, 88) : ""}
+                  title={e.title ? e.title.slice(0, 70) : ""}
+                  description={e.description ? e.description.slice(0, 115) : ""}
                   imgUrl={e.urlToImage}
                   newsUrl={e.url}
                 />
