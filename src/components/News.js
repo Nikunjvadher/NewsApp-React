@@ -1,7 +1,6 @@
 import React, { useEffect ,  useState} from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
-import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 import "../App.css";
 
@@ -11,7 +10,6 @@ const  News = (props) => {
   const [loading , setLoading] = useState(true)
   const [page , setPage] = useState(1)
   const [totalResults , setTotalResults] = useState(0)
-  // document.title = `NewsMonkey - ${capitalized(props.category)}`;
  
 
   const capitalized = (string) => {
@@ -34,21 +32,13 @@ const  News = (props) => {
 
   useEffect(()=> {
     updateNews();
+    document.title = `NewsMonkey - ${capitalized(props.category)}`;
   })
 
-  const handlePrevClick = async () => {
-    setPage(page - 1)
-    updateNews();
-  };
-
- const handleNextClick = async () => {
-    setPage(page + 1)
-    updateNews();
-  };
 
   const fetchMoreData = async () => {
-    setPage(page + 1)
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=fc127c7be20d4f0b9e8acf1a9fbd0988&page=${page+1}&pageSize=${props.pageSize}`;
+    setPage(page + 1);
     let data = await fetch(url);
     let parsedData = await data.json();
     setArticles(articles.concat(parsedData.articles))
@@ -57,8 +47,8 @@ const  News = (props) => {
 
     return (
       <>
-        <h1 className="text-center my-4 fw-bold">
-          {" "}
+        <h1 className="text-center mt-6 fw-bold">
+          {/* {" "} */}
           NewsMonkey - Top {capitalized(props.category)} Headlines
         </h1>
         {loading && <Spinner />}
