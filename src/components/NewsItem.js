@@ -1,11 +1,8 @@
-import {Component} from 'react'
-// import defaultImg from '../../img/default-Img.png';
 import '../App.css'
 
-export class NewsItem extends Component {
-    render(){
+const NewsItem = (props) => {
 
-        let {title , description , imgUrl , newsUrl , author , date , source} = this.props;
+        let {title , description , imgUrl , newsUrl , author , date , source} = props;
         return (
             <div className='my-3'>
                 <div className="card " style={{height: '28rem'}}>
@@ -22,7 +19,6 @@ export class NewsItem extends Component {
                 </div>
             </div>
         )
-    }
 } 
 // defaultImg
 
