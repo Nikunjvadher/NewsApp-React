@@ -10,7 +10,7 @@ export class NewsItem extends Component {
             <div className='my-3'>
                 <div className="card " style={{height: '28rem'}}>
                     <div className="d-flex  justify-content-end">
-                    <span className="position-absolute  badge rounded-pill bg-danger" >{source}</span>
+                    <span className="position-absolute badge rounded-pill bg-danger" >{source}</span>
                     </div>
                     <img src={!imgUrl?"https://media2.gmgroup.be/00_nm_logo.png":imgUrl} className={`card-img-top cardImg`} alt=""/>
                     <div className="card-body">
